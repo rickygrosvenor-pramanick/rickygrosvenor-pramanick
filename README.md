@@ -1,6 +1,6 @@
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=rickygrosvenor-pramanick&show_icons=true&locale=en&theme=dark" style=" height: 165px;" alt="rickygrosvenor-pramanick" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickygrosvenor-pramanick&theme=dark" style="height: 165px;" alt="gursi26" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rickygrosvenor-pramanick&show_icons=true&locale=en&theme=dark" style=" height: 150px;" alt="rickygrosvenor-pramanick" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickygrosvenor-pramanick&theme=dark" style="height: 150px;" alt="rickygrosvenor-pramanick" />
 </div>
 
 
