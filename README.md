@@ -1,5 +1,7 @@
 ricky pramanick
+
 3rd year undergraduate computer science @ uoft
+
 focusing on machine learning and computer vision
 <!--
 <div>
