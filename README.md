@@ -1,5 +1,7 @@
 ricky pramanick
 
+ml @ rbc
+
 3rd year undergraduate computer science @ uoft
 
 focusing on machine learning and computer vision
