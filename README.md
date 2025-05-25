@@ -2,6 +2,8 @@ ricky pramanick
 
 ml @ rbc
 
+robotics & computer vision research @ acceleration consortium
+
 ml research assistant @ css lab
 
 3rd year undergraduate computer science @ uoft
