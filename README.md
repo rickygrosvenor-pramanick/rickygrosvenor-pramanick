@@ -6,7 +6,7 @@ robotics & computer vision research @ acceleration consortium
 
 ml research assistant @ css lab
 
-3rd year undergraduate computer science @ uoft
+4th year undergraduate computer science @ uoft
 
 focusing on machine learning and computer vision
 
