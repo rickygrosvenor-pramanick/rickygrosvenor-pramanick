@@ -2,13 +2,17 @@ ricky pramanick
 
 ml @ rbc
 
+computer vision research @ embARC lab, university of toronto
+
+computer science (focus in ai) graduate @ university of toronto
+
+#
+
+previously:
+
 robotics & computer vision research @ acceleration consortium
 
 ml research assistant @ css lab
-
-4th year undergraduate computer science @ uoft
-
-focusing on machine learning and computer vision
 
 [![Ricky's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rickygrosvenor-pramanick&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
